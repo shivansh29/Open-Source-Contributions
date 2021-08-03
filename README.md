@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td valign="top">https://github.com/vaadin/flow-components/graphs/contributors</td>
-    <td valign="top"><b> 1 </b> </td>
+    <td valign="top"><b> 2 </b> </td>
   </tr>
  </table>
 
